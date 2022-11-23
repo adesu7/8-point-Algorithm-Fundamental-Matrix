@@ -1,5 +1,4 @@
-# Assignment-3
-Fundamental Matrix calculation
+# Fundamental Matrix calculation
 Manual Implementation of 8 point algorithm to compute a Fundamental Matrix
 a. Shifted and scaled the pixel coordinates
 b. Compute the design matrix from sets of (at least) 8 points using SIFT keypoints
